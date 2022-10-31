@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/NewsProject/NewsProject/bin
+/NewsProject/NewsProject/obj/Debug
